@@ -1,0 +1,25 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/portfolioserver-b5101.appspot.com/o/images%2Ffavicon.ico?alt=media&token=e3295f3c-f3ac-463c-9ebb-22801c9b5145",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/portfolioserver-b5101.appspot.com/o/images%2Ffavicon.ico?alt=media&token=e3295f3c-f3ac-463c-9ebb-22801c9b5145",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
